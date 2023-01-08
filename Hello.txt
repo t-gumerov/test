@@ -1,1 +1,8 @@
-Лёлик, всё пропало!
+Hello
+<<<<<<< HEAD
+How are you?
+I'm hungry!
+=======
+Hello everybody!
+What a fuck?
+>>>>>>> 97399b9294e8e0c96b83306c1fc77b2e61a3a83d
